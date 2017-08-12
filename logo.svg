@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(1.6985, 0, 0, 1.47583, -107.768, -42.1417)" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" id="svg_1" y="128.32996" x="202.100281" stroke-width="0" stroke="#000000" fill="#007fff">R</text>
+  <text transform="matrix(2.01743, 0, 0, 2.79986, -308.859, -246.209)" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" id="svg_2" y="143.87924" x="286.185213" stroke-width="0" stroke="#000000" fill="#000000">H</text>
+  <ellipse ry="54" rx="54" id="svg_9" cy="139" cx="256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+ </g>
+</svg>
